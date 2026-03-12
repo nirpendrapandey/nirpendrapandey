@@ -2,8 +2,16 @@
 
 B.Tech (Information Technology) — 2027
 
-I am a developer focused on building practical web applications and continuously improving my understanding of modern web technologies.
-Most of my work revolves around the JavaScript ecosystem where I build responsive user interfaces and scalable backend systems.
+Full-stack web developer focused on building modern, scalable and practical web applications.
+I enjoy working across the entire stack — designing clean interfaces, building backend APIs and deploying production-ready projects.
+
+My work mostly revolves around the JavaScript ecosystem and modern web tools.
+
+Portfolio & Projects
+https://nripendra.online
+
+GitHub
+https://github.com/nirpendrapandey
 
 ---
 
@@ -41,40 +49,50 @@ Git • GitHub • Vercel • Render
 
 ---
 
-## Contribution Activity Graph
+## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirpendrapandey" />
 
 ---
 
-## Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=nirpendrapandey" />
-
----
-
-## Profile Visitor Counter
+## Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=nirpendrapandey&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
-## About My Work
+## What I Work On
 
-Most repositories here reflect my journey in learning and building modern full-stack applications.
-I enjoy creating clean user interfaces, designing backend APIs, integrating databases and deploying real projects.
+• Full-stack web applications
+• REST API development
+• Database integration
+• Frontend performance & UI development
+• Deploying applications to production
 
 ---
 
 ## Current Focus
 
-• Advanced JavaScript
-• Scalable backend systems
-• Full stack project architecture
+• Advanced JavaScript patterns
+• Scalable backend architecture
+• Production level full-stack applications
 • Writing cleaner and maintainable code
 
 ---
 
-## Profile
+## Featured Portfolio
 
+If you want to see my work and projects, visit my portfolio website:
+
+https://nripendra.online
+
+It contains projects, experiments and work related to modern web development.
+
+---
+
+## Connect
+
+GitHub
 https://github.com/nirpendrapandey
+
+
